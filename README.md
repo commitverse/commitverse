@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 8px;"> Hey, I'm Karthik Adamz 👋</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ink+Free&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=550&lines=AI+%7C+Robotics+%7C+Cybersecurity;Engineering+Student;Building+Autonomous+Intelligent+Systems;Pushing+the+Boundaries+of+Technology">
+  <img src="https://readme-typing-svg.demolab.com?font=Ink+Free&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=550&lines=AI+%7C+Robotics+%7C+Cybersecurity+Enthusiast;Engineering+Student;Building+Autonomous+Intelligent+Systems;Pushing+the+Boundaries+of+Technology">
 </p>
 
 ## 👾 Behind the Code.  
@@ -35,4 +35,3 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/Web%20Technologies-FF6F00?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://www.cisa.gov/cybersecurity"><img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
 </p>
-
